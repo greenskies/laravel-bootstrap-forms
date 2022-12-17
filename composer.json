@@ -1,6 +1,6 @@
 {
-    "name": "bastinald/laravel-bootstrap-forms",
-    "homepage": "https://github.com/bastinald/laravel-bootstrap-forms",
+    "name": "greenskies/laravel-bootstrap-forms",
+    "homepage": "https://github.com/greenskies/laravel-bootstrap-forms",
     "description": "Bootstrap 5 form components for Laravel.",
     "license": "MIT",
     "authors": [
